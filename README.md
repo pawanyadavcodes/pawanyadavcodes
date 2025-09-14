@@ -1,4 +1,5 @@
 ![logo](https://github.com/pawanyadavcodes/pawanyadavcodes/blob/main/concept-cyberspace.webm)
+<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif">
 <h1 align="center">Hi 👋, I'm PAWAN YADAV</h1>
 <h3 align="center">A full-Stack developer , DSA Enthusiast.</h3>
 
