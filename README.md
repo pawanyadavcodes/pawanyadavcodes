@@ -28,12 +28,7 @@ I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute 
 ## 💻 Skills
 <table style="width:100%" align="center">
   <tr>
-    <th>Operating Systems</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Ubuntu-FCC624?style=flat-square&logo=ubuntu" />
-      <img src="https://img.shields.io/badge/-Mac%20OS-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
-    </td>
-  </tr>
+    
   <tr>
     <th>Markup Languages</th>
     <td>
