@@ -43,9 +43,7 @@ I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute 
     <td> 
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/-Go-5757A8?style=flat-square&logo=go" />
     </td>
   </tr>
   <tr>
@@ -61,9 +59,7 @@ I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute 
     <th>Databases</th>
     <td>
       <img src="https://img.shields.io/badge/-MongoDB-99ff99?style=flat-square&logo=mongodb" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -71,7 +67,6 @@ I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute 
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/-Nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
       <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github" />
     </td>
   </tr>
@@ -80,7 +75,6 @@ I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute 
     <td>
       <img src="https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" />
     </td>
   </tr>
   <tr>
