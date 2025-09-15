@@ -1,33 +1,152 @@
 
-<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif">
-<h1 align="center">Hi 👋, I'm PAWAN YADAV</h1>
-<h3 align="center">A full-Stack developer , DSA Enthusiast.</h3>
+![]()
 
-<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif">
+# 👋 Hello, I'm Pawan Kumar Yadav !
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanyadavcodes&label=Profile%20views&color=0e75b6&style=flat" alt="pawanyadavcodes" /> </p>
+I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute of Engineering and Technology (SCRIET) affiliated with Chaudhary Charan Singh University ,(Meerut). I specialize in Full Stack Web Development, with hands-on experience in building scalable, responsive, and user-friendly applications using React, Node.js, MongoDB, and more. I'm also exploring DevOps practices and AWS Cloud Services to expand my backend and deployment capabilities and also explore AI Tools to enhance productivity and build smarter solutions .
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanyadavcodes" alt="pawanyadavcodes" /></a> </p>
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fsearch%2Fcoding%2F&psig=AOvVaw1cq2u8xTvy6akejzi5lrUJ&ust=1758017492520000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCkutXD2o8DFQAAAAAdAAAAABAE" />
 
-- 🌱 I’m currently learning **Frameworks and AI Tools**
-
-- 💬 Ask me about **DSA ,JavaScript , React ,Node.js**
-
-- 📫 How to reach me **yadavpawan81503@gmail.com**
-
-- ⚡ Fun fact **Debugger**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pawan-yadav-7ba281306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-yadav-7ba281306/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pawan-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawan-yadav" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🎓 Education
+<table style="width:100%" align="center">
+  <tr>
+    <th>Institution</th>
+    <th>Program</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Chaudhary Charan Singh University, Meerut</td>
+    <td>Bachelor of Technology in Computer Science</td>
+    <td>Oct 2022 – June 2026</td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanyadavcodes&show_icons=true&locale=en&layout=compact" alt="pawanyadavcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanyadavcodes&show_icons=true&locale=en" alt="pawanyadavcodes" /></p>
+## 💻 Skills
+<table style="width:100%" align="center">
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Ubuntu-FCC624?style=flat-square&logo=ubuntu" />
+      <img src="https://img.shields.io/badge/-Mac%20OS-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Markup Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/-Markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+    </td>
+  </tr> 
+  <tr>
+    <th>Programming Languages</th>
+    <td> 
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
+      <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/-Go-5757A8?style=flat-square&logo=go" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
+      <img src="https://img.shields.io/badge/-Flask-ff0000?style=flat-square&logo=flask" />
+      <img src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=django" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-99ff99?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Automate, Deploy, Platform & Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" /> 
+      <img src="https://img.shields.io/badge/-Nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <th>Hosting</th>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Postman-%238D6748?style=flat-square&logo=postman&logoColor=orange" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanyadavcodes&" alt="pawanyadavcodes" /></p>
+## 📞 Get in Touch
+
+<table style="width:100%" align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Website</td>
+    <td>
+      <a href="https://github.com/pawanyadavcodes">
+        <img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>
+      <a href="www.linkedin.com/in/pawan-yadav-7ba281306/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>
+      <a href="https://github.com/pawanyadavcodes">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>
+      <a href="mailto:yadavpawan81503@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Personal-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanyadavcodes&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawanyadavcodes&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawanyadavcodes&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawanyadavcodes&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawanyadavcodes&theme=dark" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanyadavcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
