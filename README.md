@@ -1,5 +1,5 @@
 
-![](https://github.com/pawanyadavcodes/pawanyadavcodes/blob/main/.trashed-1757836295-IMG-20230213-WA0014.jpg)
+![](https://github.com/pawanyadavcodes/pawanyadavcodes/blob/main/GITHUB.png)
 
 # 👋 Hello, I'm Pawan Kumar Yadav !
 
