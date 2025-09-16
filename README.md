@@ -1,7 +1,7 @@
 
 ![](https://github.com/pawanyadavcodes/pawanyadavcodes/blob/main/pawan.github.jpg)
 
-# 👋 Hello, I'm Pawan Kumar Yadav !
+# Hello, I'm Pawan Kumar Yadav 
 
 I'm currently pursuing B.Tech in Computer Science from Sir Chhotu Ram Institute of Engineering and Technology (SCRIET) affiliated with Chaudhary Charan Singh University ,(Meerut). I specialize in Full Stack Web Development, with hands-on experience in building scalable, responsive, and user-friendly applications using React, Node.js, MongoDB, and more. I'm also exploring DevOps practices and AWS Cloud Services to expand my backend and deployment capabilities and also explore AI Tools to enhance productivity and build smarter solutions .
 
